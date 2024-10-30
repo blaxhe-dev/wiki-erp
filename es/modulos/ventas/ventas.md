@@ -11,7 +11,7 @@ dateCreated: 2024-10-30T12:28:30.188Z
 # Módulo de ventas
 
 - [Cotizaciones](/modulos/ventas/cotizaciones)
-- Pedidos
+- [Pedidos](/modulos/ventas/pedidos)
 - Remisiones
 - Facturas
 - Devoluciones
