@@ -14,4 +14,4 @@ dateCreated: 2024-10-30T12:28:30.188Z
 - [Pedidos](/modulos/ventas/pedidos)
 - Remisiones
 - Facturas
-- Devoluciones{.links-list}
+- Devoluciones {.links-list}
