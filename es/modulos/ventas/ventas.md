@@ -12,6 +12,4 @@ dateCreated: 2024-10-30T12:28:30.188Z
 
 - [Cotizaciones](/modulos/ventas/cotizaciones)
 - [Pedidos](/modulos/ventas/pedidos)
-- Remisiones
-- Facturas
-- Devoluciones {.links-list}
+{.links-list}
